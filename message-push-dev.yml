@@ -8,4 +8,5 @@ fydata:
   serverPort: 8883
   accountId: 8a216da863cde6f90163d9198e9b0603
   accountToken: d90ca38a6cca433fa1404c8f8d9826c0
-  appIdMap: "{3osint:'8a216da863f8e6c201640145a0c706b7',riskExpress:'8a216da866196805016622ef193205b6'}"
+  #appIdMap: "{3osint:'8a216da863f8e6c201640145a0c706b7',riskExpress:'8a216da866196805016622ef193205b6'}"
+  appIdMap: "{key1: 'value1', key2: 'value2'}"
